@@ -1,0 +1,10 @@
+{
+  "name": "prompt-designer",
+  "version": "1.0.0",
+  "description": "이용자가 원하는 프롬프트를 새로 설계하거나 기존 프롬프트를 고도화하는 플러그인. OPRO, CoVe 등 프롬프트 엔지니어링 기법을 상황에 맞게 선별 적용한다.",
+  "author": {
+    "name": "한국AI활용센터",
+    "url": "https://ai4you.co.kr"
+  },
+  "keywords": ["prompt-engineering", "prompt-design", "opro", "korean"]
+}
