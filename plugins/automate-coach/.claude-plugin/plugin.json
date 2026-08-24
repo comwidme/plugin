@@ -1,0 +1,11 @@
+{
+  "name": "automate-coach",
+  "description": "업무 자동화 요청을 질문-제안-설계-확인 4단계로 상담하는 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "한국AI활용센터",
+    "url": "https://ai4you.co.kr"
+  },
+  "license": "MIT",
+  "keywords": ["automation", "workflow", "consulting", "업무자동화"]
+}

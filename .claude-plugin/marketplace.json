@@ -3,7 +3,7 @@
   "owner": {
     "name": "Matthew"
   },
-  "description": "Matthew의 사내/개인용 Claude 플러그인 모음",
+  "description": "한국AI활용센터의 Claude 플러그인 모음",
   "plugins": [
     {
       "name": "claude-use-cases-for-work",
@@ -15,6 +15,12 @@
       "name": "prompt-designer",
       "source": "./plugins/prompt-designer",
       "description": "이용자가 원하는 프롬프트를 새로 설계하거나 기존 프롬프트를 전문가 수준으로 고도화하는 플러그인",
+      "version": "1.0.0"
+    },
+    {
+      "name": "automate-coach",
+      "source": "./plugins/automate-coach",
+      "description": "업무 자동화 요청을 질문-제안-설계-확인 4단계로 상담하는 스킬을 제공하는 플러그인",
       "version": "1.0.0"
     }
   ]
