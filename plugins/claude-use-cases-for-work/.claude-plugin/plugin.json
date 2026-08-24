@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "직장인의 회사/직무/업무를 파악해 Claude 활용 아이디어와 바로 복붙해서 쓸 수 있는 맞춤형 프롬프트를 표 형태로 제안하는 플러그인",
   "author": {
-    "name": "Matthew"
+    "name": "한국AI활용센터 / ai4you.co.kr "
   },
   "keywords": ["prompt-design", "productivity", "korean", "onboarding", "use-cases"]
 }
